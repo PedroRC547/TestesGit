@@ -1,2 +1,2 @@
 # TestesGit
-Repositório  de testes do git
+Repositório criado para realizar teste de funcionalidade do git.
